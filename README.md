@@ -57,9 +57,10 @@ Clear distinction between user and admin roles
 
 
 📊 Admin Dashboard
-![Screenshot 2025-05-22 234726](https://github.com/user-attachments/assets/00fa3ccf-c50d-45ff-adac-168f64f334aa)
+![Screenshot 2025-05-22 235758](https://github.com/user-attachments/assets/028a936b-236b-4457-a8b3-d98bf5cdb44f)
 
-Product Checkout 
+
+Product Creation  
 ![Screenshot 2025-05-22 235819](https://github.com/user-attachments/assets/a654399f-a9a8-4f7a-9f34-7b8ee639c608)
 
 Payment Processing 
