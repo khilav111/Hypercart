@@ -99,8 +99,8 @@ Installation Steps
 bash
 Copy
 Edit
-git clone https://github.com/username/hypercart.git
-cd hypercart
+git clone https://github.com/khilav111/Hypercart
+cd Hypercart
 # Install backend and frontend dependencies
 ```cd backend && npm install
 cd ../frontend && npm install```
